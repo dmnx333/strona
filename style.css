@@ -1,0 +1,14 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: cornflowerblue;
+    background-color: black;
+padding: 20px;
+
+}
+ul {
+    list-style-position: inherit;
+}
+img {
+    height: 200px;
+    align-items: center;
+}
